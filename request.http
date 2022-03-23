@@ -1,0 +1,25 @@
+POST http://localhost:8001/products
+Content-Type: application/json
+
+{
+    "name": "pao",
+    "price": 3.15
+}
+###
+
+PUT http://localhost:8001/products/ddcc3a86-0ffc-48c2-887c-3ad8d649bc2a
+Content-Type: application/json
+
+{
+    "name": "livro completo",
+    "price": 23.15
+}
+###
+
+GET http://localhost:8001/products
+###
+
+GET http://localhost:8001/products/4873ec21-cb6b-4eba-9233-c077fbbea141
+###
+
+DELETE http://localhost:8001/products/e6f3c27a-3df9-49da-8639-14c4d765092f

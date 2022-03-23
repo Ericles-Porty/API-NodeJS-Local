@@ -1,0 +1,33 @@
+[
+  {
+    "name": "livro",
+    "price": 3.15,
+    "id": "f3dcb8e4-1251-4720-b1dd-8fdb15aef283"
+  },
+  {
+    "name": "caderno",
+    "price": 3.15,
+    "id": "0640bb68-bb57-4f00-a45e-fc79b7ea0879"
+  },
+  {
+    "name": "ave",
+    "price": 3.15,
+    "id": "ae5d3555-7307-4f08-aa3d-08b7a8d46bdc"
+  },
+  {
+    "name": "pao",
+    "price": 3.15,
+    "id": "266af9be-0c2e-4863-9879-d0ea95be0dcb"
+  },
+  {
+    "name": "kev",
+    "price": 3.15,
+    "id": "fc326553-578b-4749-b09e-7b4b25d56df3"
+  },
+  {
+    "name": "juju",
+    "price": 777777777,
+    "id": "561dc92a-21af-4bd3-b74f-3212c78d88b8"
+  },
+  { "name": "a", "price": 123, "id": "53121e4a-22b8-4a17-b6ac-e25708194d9b" }
+]
